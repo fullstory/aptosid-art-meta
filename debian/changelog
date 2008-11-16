@@ -1,8 +1,8 @@
-sidux-art-meta (1.5.2) UNRELEASED; urgency=low
+sidux-art-meta (1.5.2) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * fix package name for gfxboot-theme-sidux-2008-04-pontos once more.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 16 Nov 2008 17:08:29 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 16 Nov 2008 19:32:39 +0100
 
 sidux-art-meta (1.5.1) unstable; urgency=low
 
