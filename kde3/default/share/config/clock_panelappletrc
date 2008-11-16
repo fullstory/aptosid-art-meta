@@ -1,6 +1,0 @@
-[General]
-Type=Plain
-
-[Plain]
-Font=Monospace,11,-1,5,50,0,0,0,0,0
-Show_Date=false

@@ -1,4 +1,4 @@
-Source: sidux-art-kde
+Source: sidux-art-meta
 Section: graphics
 Priority: extra
 Maintainer: Bernard Gray <bernard.gray@gmail.com>
@@ -8,17 +8,28 @@ Standards-Version: 3.8.0
 Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-kde/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-kde/trunk/
 
+Package: gfxboot-theme-sidux
+Architecture: all
+Depends: gfxboot-theme-sidux-2008-03-ourea | gfxboot-theme-sidux-message
+Description: sidux meta theme for gfxboot-compliant boot loaders
+ This meta package pulls in the current sidux gfxboot theme.
+
 Package: sidux-art-kde
 Architecture: all
-Depends: sidux-art-kde-ourea | sidux-art-kde-theme
+Depends: sidux-art-kde-pontos | sidux-art-kde-theme
 Conflicts: sidux-art-kde (<= 0.0.6)
 Description: KDE theme virtual package for sidux
  Depends on various KDE artwork used in current sidux release
 
-Package: sidux-settings-kde
-Depends: sidux-art-kde, kde-style-qtcurve
-Recommends: sidux-browser, ttf-dejavu, gtk2-engines-qtcurve
+Package: sidux-art-wallpaper
 Architecture: all
-Description: provide default KDE settings for sidux
- Provides default settings for appearance and applications of the KDE
- desktop in sidux.
+Depends: sidux-art-wallpaper-pontos | sidux-art-wallpaper-theme
+Description: sidux wallpaper virtual package
+ Depends on the wallpaper package for the current release
+
+Package: sidux-art-xfce
+Architecture: all
+Depends: sidux-art-xfce-pontos | sidux-art-xfce-theme 
+Description: Xfce theme for sidux
+ Virtual package providing Xfce themes used in the 
+ current sidux release

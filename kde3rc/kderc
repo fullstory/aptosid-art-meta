@@ -1,5 +1,0 @@
-[Directories]
-userProfileMapFile=/etc/kde-user-profile
-
-[Directories-default]
-prefixes=/usr/share/sidux-settings-kde/kde3/default/
