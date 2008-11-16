@@ -10,7 +10,7 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-meta/trunk/
 
 Package: gfxboot-theme-sidux
 Architecture: all
-Depends: gfxboot-theme-sidux-2008-03-ourea | gfxboot-theme-sidux-message
+Depends: gfxboot-theme-sidux-2008-03-pontos | gfxboot-theme-sidux-message
 Description: sidux meta theme for gfxboot-compliant boot loaders
  This metapackage pulls in the current sidux gfxboot theme.
 
