@@ -12,7 +12,7 @@ Package: gfxboot-theme-sidux
 Architecture: all
 Depends: gfxboot-theme-sidux-2008-03-ourea | gfxboot-theme-sidux-message
 Description: sidux meta theme for gfxboot-compliant boot loaders
- This meta package pulls in the current sidux gfxboot theme.
+ This metapackage pulls in the current sidux gfxboot theme.
 
 Package: sidux-art-kde
 Architecture: all
