@@ -1,8 +1,8 @@
-sidux-art-meta (1.5) UNRELEASED; urgency=low
+sidux-art-meta (1.5) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * fix vcs URI.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 16 Nov 2008 16:25:19 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 16 Nov 2008 16:36:19 +0100
 
 sidux-art-meta (1.4) unstable; urgency=low
 
