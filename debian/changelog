@@ -1,9 +1,8 @@
-sidux-art-meta (1.5.3) UNRELEASED; urgency=low
+sidux-art-meta (1.5.3) unstable; urgency=low
 
-  * NOT RELEASED YET
   * make lintian happy and depend on ${misc:Depends}.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 02:58:35 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:31:41 +0100
 
 sidux-art-meta (1.5.2) unstable; urgency=low
 
