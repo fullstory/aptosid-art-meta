@@ -1,8 +1,8 @@
-sidux-art-meta (1.5.5) UNRELEASED; urgency=low
+sidux-art-meta (1.5.5) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * fix gfxboot.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 04 Feb 2009 22:16:40 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 04 Feb 2009 23:33:40 +0100
 
 sidux-art-meta (1.5.4) unstable; urgency=low
 
