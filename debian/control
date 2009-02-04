@@ -11,14 +11,14 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-meta/trunk/
 Package: gfxboot-theme-sidux
 Architecture: all
 Depends: ${misc:Depends},
-         gfxboot-theme-sidux-2008-04-pontos | gfxboot-theme-sidux-message
+         gfxboot-theme-sidux-2008-04-ouranos | gfxboot-theme-sidux-message
 Description: sidux meta theme for gfxboot-compliant boot loaders
  This metapackage pulls in the current sidux gfxboot theme.
 
 Package: sidux-art-kde
 Architecture: all
 Depends: ${misc:Depends},
-         sidux-art-kde-pontos | sidux-art-kde-theme
+         sidux-art-kde-ouranos | sidux-art-kde-theme
 Conflicts: sidux-art-kde (<= 0.0.6)
 Description: KDE theme virtual package for sidux
  Depends on various KDE artwork used in current sidux release
@@ -26,14 +26,14 @@ Description: KDE theme virtual package for sidux
 Package: sidux-art-wallpaper
 Architecture: all
 Depends: ${misc:Depends},
-         sidux-art-wallpaper-pontos | sidux-art-wallpaper-theme
+         sidux-art-wallpaper-ouranos | sidux-art-wallpaper-theme
 Description: sidux wallpaper virtual package
  Depends on the wallpaper package for the current release
 
 Package: sidux-art-xfce
 Architecture: all
 Depends: ${misc:Depends},
-         sidux-art-xfce-pontos | sidux-art-xfce-theme 
+         sidux-art-xfce-ouranos | sidux-art-xfce-theme 
 Description: Xfce theme for sidux
  Virtual package providing Xfce themes used in the 
  current sidux release

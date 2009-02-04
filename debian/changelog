@@ -1,8 +1,8 @@
-sidux-art-meta (1.5.4) UNRELEASED; urgency=low
+sidux-art-meta (1.5.4) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * s/pontos/ouranos/g.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:32:45 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 04 Feb 2009 22:15:23 +0100
 
 sidux-art-meta (1.5.3) unstable; urgency=low
 
