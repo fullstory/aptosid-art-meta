@@ -4,14 +4,14 @@ Priority: extra
 Maintainer: Bernard Gray <bernard.gray@gmail.com>
 Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>, Kel Modderman <kel@otaku42.de>
 Build-Depends: debhelper (>= 7)
-Standards-Version: 3.8.02
+Standards-Version: 3.8.1
 Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-meta/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-meta/trunk/
 
 Package: gfxboot-theme-sidux
 Architecture: all
 Depends: ${misc:Depends},
-         gfxboot-theme-sidux-202029-021-aether | gfxboot-theme-sidux-message
+         gfxboot-theme-sidux-2009-02-aether | gfxboot-theme-sidux-message
 Description: sidux meta theme for gfxboot-compliant boot loaders
  This metapackage pulls in the current sidux gfxboot theme.
 
@@ -19,7 +19,7 @@ Package: sidux-art-kde
 Architecture: all
 Depends: ${misc:Depends},
          sidux-art-kde-aether | sidux-art-kde-theme
-Conflicts: sidux-art-kde (<= 02.02.6)
+Conflicts: sidux-art-kde (<= 0.0.6)
 Description: KDE theme virtual package for sidux
  Depends on various KDE artwork used in current sidux release
 
