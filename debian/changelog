@@ -1,8 +1,12 @@
 sidux-art-meta (1.5.8) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 23 Apr 2009 02:18:08 +0200
+  [ Bernard Gray ]
+  * s/aether/momos
+
+ -- Bernard Gray <bernie@ed>  Tue, 22 Sep 2009 22:32:29 +1000
 
 sidux-art-meta (1.5.7) unstable; urgency=low
 
