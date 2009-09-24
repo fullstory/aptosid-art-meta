@@ -1,12 +1,12 @@
-sidux-art-meta (1.5.8) UNRELEASED; urgency=low
-
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
+sidux-art-meta (1.5.8) unstable; urgency=low
 
   [ Bernard Gray ]
-  * s/aether/momos
+  * s/aether/momos/
 
- -- Bernard Gray <bernie@ed>  Tue, 22 Sep 2009 22:32:29 +1000
+  [ Stefan Lippers-Hollmann ]
+  * bump standards version to 3.8.3, no changes necessary.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 25 Sep 2009 00:23:00 +0200
 
 sidux-art-meta (1.5.7) unstable; urgency=low
 
