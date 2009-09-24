@@ -1,3 +1,9 @@
+sidux-art-meta (1.5.9) unstable; urgency=low
+
+  * fix link to GPL-2 in debian/copyright.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 25 Sep 2009 00:24:37 +0200
+
 sidux-art-meta (1.5.8) unstable; urgency=low
 
   [ Bernard Gray ]
