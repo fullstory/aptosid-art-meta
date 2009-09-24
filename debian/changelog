@@ -1,3 +1,9 @@
+sidux-art-meta (1.5.10) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 25 Sep 2009 00:25:16 +0200
+
 sidux-art-meta (1.5.9) unstable; urgency=low
 
   * fix link to GPL-2 in debian/copyright.
