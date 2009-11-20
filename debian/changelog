@@ -1,8 +1,10 @@
-sidux-art-meta (1.5.10) UNRELEASED; urgency=low
+sidux-art-meta (1.5.10) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * s/momos/moros/.
+  * s/2009-03/2009-04/.
+  * update debian/copyright.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 25 Sep 2009 00:25:16 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 20 Nov 2009 22:17:11 +0100
 
 sidux-art-meta (1.5.9) unstable; urgency=low
 
