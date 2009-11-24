@@ -1,8 +1,8 @@
-sidux-art-meta (1.5.12) UNRELEASED; urgency=low
+sidux-art-meta (1.5.12) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * fix meta package name.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 24 Nov 2009 14:24:26 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 24 Nov 2009 14:55:32 +0100
 
 sidux-art-meta (1.5.11) unstable; urgency=low
 
