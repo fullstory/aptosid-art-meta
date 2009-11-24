@@ -1,3 +1,9 @@
+sidux-art-meta (1.5.14) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 24 Nov 2009 15:34:43 +0100
+
 sidux-art-meta (1.5.13) unstable; urgency=low
 
   * add symlink to current bootlogo.
