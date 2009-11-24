@@ -1,3 +1,9 @@
+sidux-art-meta (1.5.12) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 24 Nov 2009 14:24:26 +0100
+
 sidux-art-meta (1.5.11) unstable; urgency=low
 
   * fix package name for Μόρος.
