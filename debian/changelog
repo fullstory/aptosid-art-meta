@@ -1,3 +1,9 @@
+sidux-art-meta (1.5.15) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 25 Nov 2009 13:46:17 +0100
+
 sidux-art-meta (1.5.14) unstable; urgency=low
 
   * remove now obsolete dangling symlink for bootlogo selection.
