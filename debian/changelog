@@ -1,8 +1,8 @@
-sidux-art-meta (1.5.15) UNRELEASED; urgency=low
+sidux-art-meta (1.5.15) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * fix dependencies.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 25 Nov 2009 13:46:17 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 26 Nov 2009 19:53:10 +0100
 
 sidux-art-meta (1.5.14) unstable; urgency=low
 
