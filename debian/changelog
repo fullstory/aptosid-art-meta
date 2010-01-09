@@ -1,8 +1,9 @@
-sidux-art-meta (1.5.16) UNRELEASED; urgency=low
+sidux-art-meta (1.5.16) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * update to Ύπνος.
+  * drop obsolete Conflicts/ Replaces.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 27 Nov 2009 17:04:13 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 09 Jan 2010 19:29:29 +0100
 
 sidux-art-meta (1.5.15) unstable; urgency=low
 
