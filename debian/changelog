@@ -1,8 +1,10 @@
-sidux-art-meta (1.5.17) UNRELEASED; urgency=low
+sidux-art-meta (1.5.17) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to dpkg-source 3.0 (native) format.
+  * bump standards version to 3.8.4, no changes necessary.
+  * update copyright years.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 09 Jan 2010 19:30:51 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 26 Apr 2010 01:00:22 +0200
 
 sidux-art-meta (1.5.16) unstable; urgency=low
 
