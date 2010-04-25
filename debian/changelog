@@ -1,3 +1,9 @@
+sidux-art-meta (1.5.18) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 26 Apr 2010 01:02:06 +0200
+
 sidux-art-meta (1.5.17) unstable; urgency=low
 
   * switch to dpkg-source 3.0 (native) format.
