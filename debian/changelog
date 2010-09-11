@@ -1,8 +1,8 @@
-sidux-art-meta (1.5.19) UNRELEASED; urgency=low
+sidux-art-meta (1.5.19) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to compat level 8.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 05 Aug 2010 04:39:26 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 08 Aug 2010 05:16:35 +0200
 
 sidux-art-meta (1.5.18) unstable; urgency=low
 
