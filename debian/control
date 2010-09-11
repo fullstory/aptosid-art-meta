@@ -1,4 +1,4 @@
-Source: sidux-art-meta
+Source: aptosid-art-meta
 Section: graphics
 Priority: extra
 Maintainer: Bernard Gray <bernard.gray@gmail.com>
@@ -6,53 +6,53 @@ Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>,
  Kel Modderman <kel@otaku42.de>
 Build-Depends: debhelper (>= 7.9.3)
 Standards-Version: 3.9.1
-Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-meta/trunk
-Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-meta/trunk/
+Vcs-Svn: svn://svn.berlios.de/fullstory/aptosid-art-meta/trunk
+Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/aptosid-art-meta/trunk/
 
-Package: gfxboot-theme-sidux
+Package: gfxboot-theme-aptosid
 Architecture: all
 Depends: ${misc:Depends},
- gfxboot-themes-sidux-2010-02-keres-core | gfxboot-themes-sidux-core
-Description: sidux meta theme for gfxboot-compliant boot loaders
+ gfxboot-themes-aptosid-2010-02-keres-core | gfxboot-themes-aptosid-core
+Description: aptosid meta theme for gfxboot-compliant boot loaders
  This metapackage pulls in a gfxboot theme, while minimal gfxboot themes for
- sidux (gfxboot-themes-sidux-core), standard OpenSUSE themes provided by
+ aptosid (gfxboot-themes-aptosid-core), standard OpenSUSE themes provided by
  "gfxboot-theme" in Debian are accepted as alternative dependencies, it
  defaults to the release specific gfxboot theme of the current release.
  .
- The current default is: sidux 2010-02 (Κῆρες)
+ The current default is: aptosid 2010-02 (Κῆρες)
 
-Package: sidux-art-kde
+Package: aptosid-art-kde
 Architecture: all
 Depends: ${misc:Depends},
- sidux-art-kde-keres | sidux-art-kde-theme
-Description: virtual package for KDE themes in sidux
+ aptosid-art-kde-keres | aptosid-art-kde-theme
+Description: virtual package for KDE themes in aptosid
  This metapackage pulls in the artwork themes for the K Desktop Environment
- while versions for all KDE themes used in sidux are accepted
- (sidux-art-kde-theme), it defaults to the release specific KDE themes of the
+ while versions for all KDE themes used in aptosid are accepted
+ (aptosid-art-kde-theme), it defaults to the release specific KDE themes of the
  current release.
  .
- The current default is: sidux 2010-02 (Κῆρες)
+ The current default is: aptosid 2010-02 (Κῆρες)
 
-Package: sidux-art-wallpaper
+Package: aptosid-art-wallpaper
 Architecture: all
 Depends: ${misc:Depends},
- sidux-art-wallpaper-keres | sidux-art-wallpaper-theme
-Description: virtual package for wallpapers in sidux
+ aptosid-art-wallpaper-keres | aptosid-art-wallpaper-theme
+Description: virtual package for wallpapers in aptosid
  This metapackage pulls in the wallpaper package for various desktop
  environments and window managers, while versions of all wallpapers used in
- sidux are accepted (sidux-art-wallpaper-theme), it defaults to the release
+ aptosid are accepted (aptosid-art-wallpaper-theme), it defaults to the release
  specific wallpaper package of the current release.
  .
- The current default is: sidux 2010-02 (Κῆρες)
+ The current default is: aptosid 2010-02 (Κῆρες)
 
-Package: sidux-art-xfce
+Package: aptosid-art-xfce
 Architecture: all
 Depends: ${misc:Depends},
- sidux-art-xfce-keres | sidux-art-xfce-theme 
-Description: virtual package for Xfce themes in sidux
+ aptosid-art-xfce-keres | aptosid-art-xfce-theme 
+Description: virtual package for Xfce themes in aptosid
  This metapackage pulls in the artwork themes for the Xfce desktop environment
- while versions for all Xfce themes used in sidux are accepted
- (sidux-art-xfce-theme), it defaults to the release specific Xfce themes of the
+ while versions for all Xfce themes used in aptosid are accepted
+ (aptosid-art-xfce-theme), it defaults to the release specific Xfce themes of the
  current release.
  .
- The current default is: sidux 2010-02 (Κῆρες)
+ The current default is: aptosid 2010-02 (Κῆρες)

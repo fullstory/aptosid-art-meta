@@ -1,8 +1,8 @@
-sidux-art-meta (1.5.20) UNRELEASED; urgency=low
+sidux-art-aptosid (1.5.20) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to aptosid.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 08 Aug 2010 05:16:53 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 29 Aug 2010 03:22:29 +0200
 
 sidux-art-meta (1.5.19) unstable; urgency=low
 
