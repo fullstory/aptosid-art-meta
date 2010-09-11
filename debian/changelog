@@ -1,8 +1,9 @@
 sidux-art-meta (1.5.18) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
+  * bump standards version to 3.9.1, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 26 Apr 2010 01:02:06 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 05 Aug 2010 01:28:11 +0200
 
 sidux-art-meta (1.5.17) unstable; urgency=low
 
