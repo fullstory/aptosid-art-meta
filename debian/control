@@ -52,7 +52,7 @@ Depends: ${misc:Depends},
 Description: virtual package for Xfce themes in aptosid
  This metapackage pulls in the artwork themes for the Xfce desktop environment
  while versions for all Xfce themes used in aptosid are accepted
- (aptosid-art-xfce-theme), it defaults to the release specific Xfce themes of the
- current release.
+ (aptosid-art-xfce-theme), it defaults to the release specific Xfce themes of
+ the current release.
  .
  The current default is: aptosid 2010-03 (Ἀπάτη)
