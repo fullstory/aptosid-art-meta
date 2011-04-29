@@ -1,8 +1,8 @@
-aptosid-art-meta (1.5.24) UNRELEASED; urgency=low
+aptosid-art-meta (1.5.24) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * bump standards version to 3.9.2, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 10 Feb 2011 17:54:42 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 29 Apr 2011 03:31:15 +0200
 
 aptosid-art-meta (1.5.23) unstable; urgency=low
 
