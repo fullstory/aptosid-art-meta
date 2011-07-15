@@ -12,47 +12,47 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/aptosid-art-meta/trunk/
 Package: gfxboot-theme-aptosid
 Architecture: all
 Depends: ${misc:Depends},
- gfxboot-themes-aptosid-2011-02-imera-core | gfxboot-themes-aptosid-core
+ gfxboot-themes-aptosid-2011-03-ponos-core | gfxboot-themes-aptosid-core
 Description: aptosid meta theme for gfxboot-compliant boot loaders
  This metapackage pulls in a gfxboot theme, while minimal gfxboot themes for
  aptosid (gfxboot-themes-aptosid-core), standard OpenSUSE themes provided by
  "gfxboot-theme" in Debian are accepted as alternative dependencies, it
  defaults to the release specific gfxboot theme of the current release.
  .
- The current default is: aptosid 2011-02 (Ἡμέρα)
+ The current default is: aptosid 2011-03 (Πόνος)
 
 Package: aptosid-art-kde
 Architecture: all
 Depends: ${misc:Depends},
- aptosid-art-kde-imera | aptosid-art-kde-theme
+ aptosid-art-kde-ponos | aptosid-art-kde-theme
 Description: virtual package for KDE themes in aptosid
  This metapackage pulls in the artwork themes for the K Desktop Environment
  while versions for all KDE themes used in aptosid are accepted
  (aptosid-art-kde-theme), it defaults to the release specific KDE themes of the
  current release.
  .
- The current default is: aptosid 2011-02 (Ἡμέρα)
+ The current default is: aptosid 2011-03 (Πόνος)
 
 Package: aptosid-art-wallpaper
 Architecture: all
 Depends: ${misc:Depends},
- aptosid-art-wallpaper-imera | aptosid-art-wallpaper-theme
+ aptosid-art-wallpaper-ponos | aptosid-art-wallpaper-theme
 Description: virtual package for wallpapers in aptosid
  This metapackage pulls in the wallpaper package for various desktop
  environments and window managers, while versions of all wallpapers used in
  aptosid are accepted (aptosid-art-wallpaper-theme), it defaults to the release
  specific wallpaper package of the current release.
  .
- The current default is: aptosid 2011-02 (Ἡμέρα)
+ The current default is: aptosid 2011-03 (Πόνος)
 
 Package: aptosid-art-xfce
 Architecture: all
 Depends: ${misc:Depends},
- aptosid-art-xfce-imera | aptosid-art-xfce-theme 
+ aptosid-art-xfce-ponos | aptosid-art-xfce-theme 
 Description: virtual package for Xfce themes in aptosid
  This metapackage pulls in the artwork themes for the Xfce desktop environment
  while versions for all Xfce themes used in aptosid are accepted
  (aptosid-art-xfce-theme), it defaults to the release specific Xfce themes of
  the current release.
  .
- The current default is: aptosid 2011-02 (Ἡμέρα)
+ The current default is: aptosid 2011-03 (Πόνος)
