@@ -1,8 +1,8 @@
-aptosid-art-meta (1.5.26) UNRELEASED; urgency=low
+aptosid-art-meta (1.5.26) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to Θάνατος.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 15 Jul 2011 21:15:52 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 05 Jan 2012 01:51:06 +0100
 
 aptosid-art-meta (1.5.25) unstable; urgency=low
 
