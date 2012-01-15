@@ -1,8 +1,8 @@
-aptosid-art-meta (1.5.27) UNRELEASED; urgency=low
+aptosid-art-meta (1.5.27) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to compat level 9.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 05 Jan 2012 01:51:49 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 16 Jan 2012 00:08:29 +0100
 
 aptosid-art-meta (1.5.26) unstable; urgency=low
 
