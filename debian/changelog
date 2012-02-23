@@ -1,8 +1,16 @@
-aptosid-art-meta (1.5.28) UNRELEASED; urgency=low
+aptosid-art-meta (1.5.29) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * fix stray ',' in uploaders.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 16 Jan 2012 00:08:41 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 23 Feb 2012 15:28:01 +0100
+
+aptosid-art-meta (1.5.28) unstable; urgency=low
+
+  * bump standards version to 3.9.3:
+    - use new metapackages section
+  * switch to code-name-only variant of gfxboot themes.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 23 Feb 2012 15:25:11 +0100
 
 aptosid-art-meta (1.5.27) unstable; urgency=low
 

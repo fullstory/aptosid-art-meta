@@ -1,18 +1,17 @@
 Source: aptosid-art-meta
-Section: graphics
+Section: metapackages
 Priority: extra
-Maintainer: Bernard Gray <bernard.gray@gmail.com>
-Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>,
- Kel Modderman <kel@otaku42.de>
+Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Uploaders: Kel Modderman <kel@otaku42.de>
 Build-Depends: debhelper (>= 9.20120115)
-Standards-Version: 3.9.2
+Standards-Version: 3.9.3
 Vcs-Svn: svn://svn.berlios.de/fullstory/aptosid-art-meta/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/aptosid-art-meta/trunk/
 
 Package: gfxboot-theme-aptosid
 Architecture: all
 Depends: ${misc:Depends},
- gfxboot-themes-aptosid-2012-01-thanatos-core | gfxboot-themes-aptosid-core
+ gfxboot-themes-aptosid-thanatos-core | gfxboot-themes-aptosid-core
 Description: aptosid meta theme for gfxboot-compliant boot loaders
  This metapackage pulls in a gfxboot theme, while minimal gfxboot themes for
  aptosid (gfxboot-themes-aptosid-core), standard OpenSUSE themes provided by
