@@ -1,3 +1,9 @@
+aptosid-art-meta (1.5.29) unstable; urgency=low
+
+  * fix stray ',' in uploaders.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 23 Feb 2012 15:28:01 +0100
+
 aptosid-art-meta (1.5.28) unstable; urgency=low
 
   * bump standards version to 3.9.3:
