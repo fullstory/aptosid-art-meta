@@ -1,8 +1,8 @@
-aptosid-art-meta (1.5.30) UNRELEASED; urgency=low
+aptosid-art-meta (1.5.30) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to Ἑσπερίδες.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 23 Feb 2012 15:28:25 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 01 Dec 2012 22:49:58 +0100
 
 aptosid-art-meta (1.5.29) unstable; urgency=low
 
