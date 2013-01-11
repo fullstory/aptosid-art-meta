@@ -1,8 +1,9 @@
-aptosid-art-meta (1.5.31) UNRELEASED; urgency=low
+aptosid-art-meta (1.5.31) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * update FSF postal address to be URLs.
+  * bump standards version to 3.9.4, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 01 Dec 2012 22:51:22 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 12 Jan 2013 00:24:19 +0100
 
 aptosid-art-meta (1.5.30) unstable; urgency=low
 
