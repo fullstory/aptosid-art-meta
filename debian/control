@@ -4,9 +4,9 @@ Priority: extra
 Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Uploaders: Kel Modderman <kel@otaku42.de>
 Build-Depends: debhelper (>= 9.20120115)
-Standards-Version: 3.9.4
-Vcs-Svn: svn://svn.berlios.de/fullstory/aptosid-art-meta/trunk
-Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/aptosid-art-meta/trunk/
+Standards-Version: 3.9.5
+Vcs-git: git://github.com/fullstory/aptosid-art-meta.git
+Vcs-Browser: https://github.com/fullstory/aptosid-art-meta
 
 Package: gfxboot-theme-aptosid
 Architecture: all
