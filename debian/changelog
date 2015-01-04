@@ -1,9 +1,9 @@
-aptosid-art-meta (1.5.35) UNRELEASED; urgency=medium
+aptosid-art-meta (1.5.35) unstable; urgency=medium
 
-  * NOT RELEASED YET
   * bump standards version to 3.9.6, no changes necessary.
+  * update to machine readable copyright.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 26 Nov 2014 03:48:21 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 04 Jan 2015 02:07:08 +0100
 
 aptosid-art-meta (1.5.34) unstable; urgency=medium
 
