@@ -1,6 +1,7 @@
 aptosid-art-meta (1.5.35) UNRELEASED; urgency=medium
 
   * NOT RELEASED YET
+  * bump standards version to 3.9.6, no changes necessary.
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 26 Nov 2014 03:48:21 +0100
 

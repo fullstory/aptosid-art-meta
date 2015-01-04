@@ -2,9 +2,8 @@ Source: aptosid-art-meta
 Section: metapackages
 Priority: extra
 Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
-Uploaders: Kel Modderman <kel@otaku42.de>
 Build-Depends: debhelper (>= 9.20120115)
-Standards-Version: 3.9.5
+Standards-Version: 3.9.6
 Vcs-git: git://github.com/fullstory/aptosid-art-meta.git
 Vcs-Browser: https://github.com/fullstory/aptosid-art-meta
 
@@ -16,7 +15,7 @@ Description: aptosid meta theme for grub2
  This metapackage pulls in a grub2 theme, it defaults to the release specific
  grub theme of the current release.
  .
- The current default is: aptosid 2014-01 (Νέμεσις)
+ The current default is: aptosid 2015-01 (Νέμεσις)
 
 Package: aptosid-art-kde
 Architecture: all
