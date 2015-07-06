@@ -21,6 +21,7 @@ Package: aptosid-art-kde
 Architecture: all
 Depends: ${misc:Depends},
  aptosid-art-kde-nemesis | aptosid-art-kde-theme
+Provides: sddm-theme
 Description: virtual package for KDE themes in aptosid
  This metapackage pulls in the artwork themes for the K Desktop Environment
  while versions for all KDE themes used in aptosid are accepted
