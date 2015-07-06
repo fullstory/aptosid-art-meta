@@ -1,3 +1,9 @@
+aptosid-art-meta (1.5.37) UNRELEASED; urgency=medium
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 06 Jul 2015 21:16:46 +0200
+
 aptosid-art-meta (1.5.36) unstable; urgency=medium
 
   * Provide sddm-theme from aptosid-art-kde, this is technically wrong, but
