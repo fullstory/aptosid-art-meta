@@ -1,8 +1,14 @@
-aptosid-art-meta (1.5.37) UNRELEASED; urgency=medium
+aptosid-art-meta (1.5.37) unstable; urgency=medium
 
-  * NOT RELEASED YET
+  * bump standards version to 4.7.0, no changes necessary.
+  * switch to compat level 13.
+  * make lintian a little happier:
+    - source: vcs-field-uses-insecure-uri Git
+    - source: insecure-copyright-format-uri
+    - source: silent-on-rules-requiring-root
+    - priority-extra-is-replaced-by-priority-optional
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 06 Jul 2015 21:16:46 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 03 Nov 2024 23:12:21 +0100
 
 aptosid-art-meta (1.5.36) unstable; urgency=medium
 

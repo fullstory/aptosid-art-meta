@@ -1,7 +1,7 @@
-Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: aptosid-art-meta
 Upstream-Contact: Stefan Lippers-Hollmann <s.l-h@gmx.de>
-Source: git://github.com/fullstory/aptosid-art-meta.git
+Source: https://github.com/fullstory/aptosid-art-meta.git
 
 Files: *
 Copyright: 2006-2014, Stefan Lippers-Hollmann <s.l-h@gmx.de>
